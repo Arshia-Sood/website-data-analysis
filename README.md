@@ -5,6 +5,7 @@
 This project is a simple website data analysis using Python.
 I used NumPy, Pandas, Matplotlib, and Seaborn to understand website traffic, user behavior, and overall performance based on the provided dataset.
 
+---
 
 ## 🛠️ Technologies Used
 
@@ -20,62 +21,79 @@ I used NumPy, Pandas, Matplotlib, and Seaborn to understand website traffic, use
 
 - Jupyter Notebook
 
+---
+
 ## 📌 Key Analysis Performed
 
-Loaded and cleaned the dataset
+- Loaded and cleaned the dataset
 
-Handled missing values
+- Handled missing values
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Visualized website traffic
+- Visualized website traffic
 
-Analyzed user sessions, channel groups, and patterns
+- Analyzed user sessions, channel groups, and patterns
 
-Extracted insights from the data
+- Extracted insights from the data
+
+---
 
 ## 🚀 How to Run the Project
-1️⃣ Clone the Repository
-``` git clone https://github.com/Arshia-Sood/website-data-analysis.git
 
-2️⃣ Open the Project Folder
+### 1️⃣ Clone the Repository
+```bash
+ git clone https://github.com/Arshia-Sood/website-data-analysis.git
+```
+
+### 2️⃣ Open the Project Folder
 ``` cd website-data-analysis
+```
 
-3️⃣ Install Required Libraries
+### 3️⃣ Install Required Libraries
 ``` pip install numpy pandas matplotlib seaborn
+```
 
-4️⃣ Open the Jupyter Notebook
+### 4️⃣ Open the Jupyter Notebook
 ``` jupyter notebook
-
+```
 
 Then open analysis.ipynb and run all cells.
 
+---
+
 ## 📷 Visualizations Included
 
-Traffic by hour
+-Traffic by hour
 
-Traffic by channel group
+-Traffic by channel group
 
-User behavior patterns
+-User behavior patterns
 
-Session distribution
+-Session distribution
 
-Heatmaps and line charts
+-Heatmaps and line charts
 
-(You can add images to an /images folder for better presentation.)
+---
 
 ## 📈 Future Improvements
 
-Add predictive analysis
+-Add predictive analysis
 
-Build interactive dashboards using Streamlit or Plotly
+-Build interactive dashboards using Streamlit or Plotly
 
-Automate report generation
+-Automate report generation
+
+---
 
 ## 🤝 Contributing
 
 Feel free to fork this repository and submit improvements!
 
+---
+
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
+
+---
