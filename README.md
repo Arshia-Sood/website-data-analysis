@@ -47,15 +47,18 @@ I used NumPy, Pandas, Matplotlib, and Seaborn to understand website traffic, use
 ```
 
 ### 2️⃣ Open the Project Folder
-``` cd website-data-analysis
+```bash
+ cd website-data-analysis
 ```
 
 ### 3️⃣ Install Required Libraries
-``` pip install numpy pandas matplotlib seaborn
+```bash
+ pip install numpy pandas matplotlib seaborn
 ```
 
 ### 4️⃣ Open the Jupyter Notebook
-``` jupyter notebook
+```bash
+ jupyter notebook
 ```
 
 Then open analysis.ipynb and run all cells.
