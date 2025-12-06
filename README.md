@@ -1,32 +1,26 @@
-.
 
-📊 Website Data Analysis
+
+# 📊 Website Data Analysis
 
 This project is a simple website data analysis using Python.
 I used NumPy, Pandas, Matplotlib, and Seaborn to understand website traffic, user behavior, and overall performance based on the provided dataset.
 
-📁 Project Structure
-web_analysis/
-└── website_analysis/
-        ├── analysis.ipynb       # Jupyter Notebook with full analysis
-        ├── data.csv             # Dataset used for analysis
-        └── images/ (optional)   # For saving plots if needed
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-Python
+- Python
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
-📌 Key Analysis Performed
+## 📌 Key Analysis Performed
 
 Loaded and cleaned the dataset
 
@@ -40,23 +34,23 @@ Analyzed user sessions, channel groups, and patterns
 
 Extracted insights from the data
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/Arshia-Sood/website-data-analysis.git
+``` git clone https://github.com/Arshia-Sood/website-data-analysis.git
 
 2️⃣ Open the Project Folder
-cd website-data-analysis
+``` cd website-data-analysis
 
 3️⃣ Install Required Libraries
-pip install numpy pandas matplotlib seaborn
+``` pip install numpy pandas matplotlib seaborn
 
 4️⃣ Open the Jupyter Notebook
-jupyter notebook
+``` jupyter notebook
 
 
 Then open analysis.ipynb and run all cells.
 
-📷 Visualizations Included
+## 📷 Visualizations Included
 
 Traffic by hour
 
@@ -70,7 +64,7 @@ Heatmaps and line charts
 
 (You can add images to an /images folder for better presentation.)
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 Add predictive analysis
 
@@ -78,10 +72,10 @@ Build interactive dashboards using Streamlit or Plotly
 
 Automate report generation
 
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to fork this repository and submit improvements!
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
